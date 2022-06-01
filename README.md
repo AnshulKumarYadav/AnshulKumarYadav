@@ -1,7 +1,7 @@
 [![MasterHead](https://undo.io/media/uploads/files/HelloWorld-LiveRecorderJava-1200-x-627.gif)](https://AnshulKumarYadav.github.io)
 <h1 align="center">Hi 👋, I'm Anshul Kumar Yadav</h1>
 <h3 align="center">A passionate Full stack development trainee at Masai School from India</h3>
-<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="300px" height="300px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulkumaryadav&label=Profile%20views&color=0e75b6&style=flat" alt="anshulkumaryadav" /> </p>
 
