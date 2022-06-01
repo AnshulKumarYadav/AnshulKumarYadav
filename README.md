@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/002/099/443/large_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg)](https://AnshulKumarYadav.github.io)
+[![MasterHead](https://undo.io/media/uploads/files/HelloWorld-LiveRecorderJava-1200-x-627.gif)](https://AnshulKumarYadav.github.io)
 <h1 align="center">Hi 👋, I'm Anshul Kumar Yadav</h1>
 <h3 align="center">A passionate Full stack development trainee at Masai School from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
