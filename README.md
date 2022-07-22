@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/Software%20Developer.gif)](https://AnshulKumarYadav.github.io)
+[![MasterHead](https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/Software%20Developer%20(1).gif)](https://AnshulKumarYadav.github.io)
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Anshul</h1>
 <details>
   <summary><b>👤 About</b></summary>
