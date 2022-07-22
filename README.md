@@ -1,4 +1,4 @@
-[![MasterHead]()](https://AnshulKumarYadav.github.io)
+[![MasterHead](https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/Software%20Developer.gif)](https://AnshulKumarYadav.github.io)
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Anshul</h1>
 <details>
   <summary><b>👤 About</b></summary>
@@ -27,7 +27,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 </details>
   
 <details>
-<summary><b>👤 Connect With Me</b></summary>
+<summary><b>💬 Connect With Me</b></summary>
 <p align="left">
   <a href="https://anshulkumaryadav.vercel.app/" target="blank"><img align="center" src="https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/globe-solid.svg" alt="anshul yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshul-kumar-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-kumar-yadav" height="30" width="40" /></a>
