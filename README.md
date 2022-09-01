@@ -31,12 +31,15 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
   
 <details>
 <summary><b>💬 Connect With Me</b></summary>
-<p align="left">
-  <a href="https://anshulkumaryadav.vercel.app/" target="blank"><img align="center" src="https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/globe-solid.svg" alt="anshul yadav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshul-kumar-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-kumar-yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/rishuyadav3602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishu3602" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anshul yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshul yadav" height="30" width="40" /></a>
-</p>
+<p>
+ 
+ | **Platforms** | **Go Live** |
+ | - | - |
+ **Portfolio Website** | [![Portfolio](https://img.shields.io/static/v1?label=&message=anshulkumaryadav.vercel.app&color=0A9CEA&logo=googlechrome&logoColor=FFFFFF)](https://anshulkumaryadav.vercel.app/)
+ **LinkedIn** | [![LinkedIn](https://img.shields.io/static/v1?label=&message=anshul-kumar-yadav&color=16C8FC&logo=linkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/anshul-kumar-yadav/)
+ **WhatsApp** | [![WhatsApp](https://img.shields.io/static/v1?label=&message=7060476249&color=25DE44&logo=whatsapp&logoColor=FFFFFF)]
+ **Instagram** | [![Instagram](https://img.shields.io/static/v1?label=&message=rishuyadav3602&color=F44CCE&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/rishuyadav3602/)
+ </p>
 </details>
 
 <details>
@@ -46,7 +49,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 | **Category** | **Technologies** |
 | - | - |
 **Frontend** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F37878&logo=html5&logoColor=FFFFFF)](https://html.com/) [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=0078D4&logo=css3&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
-**Backend** | [![mySql](https://img.shields.io/static/v1?label=&message=MySql&color=019733&logo=MySQL&logoColor=FFFFFF)](https://html.com/) [![Maven](https://img.shields.io/static/v1?label=&message=Maven&color=0078D4&logo=mvn&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Hibernate](https://img.shields.io/static/v1?label=&message=Hibernate&color=430098&logo=hibernate&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Spring Boot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=019733&logo=spring&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
+**Backend** | [![mySql](https://img.shields.io/static/v1?label=&message=MySql&color=019733&logo=MySQL&logoColor=FFFFFF)](https://html.com/) [![Maven](https://img.shields.io/static/v1?label=&message=Maven&color=0078D4&logo=mvn&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Hibernate](https://img.shields.io/static/v1?label=&message=Hibernate&color=430098&logo=hibernate&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Spring Boot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=019733&logo=springboot&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
 **Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) 
 **Cloud** | [![AWS](https://img.shields.io/static/v1?label=&message=aws&color=0078D4&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) [![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=430098&logo=vercel&logoColor=FFFFFF)](https://vercel.com/) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/)
 **Misc** | [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Powershell](https://img.shields.io/static/v1?label=&message=Powershell&color=000000&logo=microsoftpowershell&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
