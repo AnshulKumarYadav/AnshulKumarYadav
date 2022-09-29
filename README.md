@@ -37,7 +37,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
  | - | - |
  **Portfolio Website** | [![Portfolio](https://img.shields.io/static/v1?label=&message=anshulkumaryadav.vercel.app&color=0A9CEA&logo=googlechrome&logoColor=FFFFFF)](https://anshulkumaryadav.vercel.app/)
  **LinkedIn** | [![LinkedIn](https://img.shields.io/static/v1?label=&message=anshul-kumar-yadav&color=16C8FC&logo=linkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/anshul-kumar-yadav/)
- **WhatsApp** | [![WhatsApp](https://img.shields.io/static/v1?label=&message=7060476249&color=25DE44&logo=whatsapp&logoColor=FFFFFF)]
+ **WhatsApp** | ![WhatsApp](https://img.shields.io/static/v1?label=&message=7060476249&color=25DE44&logo=whatsapp&logoColor=FFFFFF)
  **Instagram** | [![Instagram](https://img.shields.io/static/v1?label=&message=rishuyadav3602&color=F44CCE&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/rishuyadav3602/)
  </p>
 </details>
@@ -62,11 +62,11 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
   </details>
 <details>
 <summary><b>📊 Metrics</b></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulkumaryadav&show_icons=true&locale=en&layout=compact" alt="anshulkumaryadav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulKumarYadav&layout=compact&theme=radical" alt="anshulkumaryadav" /></p>
 
 ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulKumarYadav&theme=radical&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnshulKumarYadav&theme=radical&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnshulKumarYadav&theme=radical&hide_border=false&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   </details>
   
