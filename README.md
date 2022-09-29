@@ -66,10 +66,17 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulkumaryadav&show_icons=true&locale=en" alt="anshulkumaryadav" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkumaryadav&" alt="anshulkumaryadav" /></p>
   
   </details>
+  
+  <a href="https://github.com/AnshulKumarYadav/github-readme-activity-graph"><img alt="Anshul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnshulKumarYadav&bg_color=0D1117&color=5BCDEC&line=DB2B63&point=EBF51B&hide_border=true" /></a>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
 
 
 
