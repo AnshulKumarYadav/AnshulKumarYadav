@@ -66,8 +66,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulKumarYadav&theme=radical&show_icons=true)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkumaryadav&" alt="anshulkumaryadav" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnshulKumarYadav&theme=radical&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   </details>
   
