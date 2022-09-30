@@ -72,9 +72,16 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
   
   <a href="https://github.com/AnshulKumarYadav/github-readme-activity-graph"><img alt="Anshul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnshulKumarYadav&bg_color=0D1117&color=5BCDEC&line=DB2B63&point=EBF51B&hide_border=true" /></a>
 
+
+<p align="left">Pinned Projects</p>
+
+|  | |
+|:-:|:-:|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Redbus&theme=radical)](https://github.com/AnshulKumarYadav/redubs)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Online-Shopping-App-&theme=radical)](https://github.com/AnshulKumarYadav/online-shopping-app-)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=bobbibrown&theme=radical)](https://github.com/AnshulKumarYadav/bobbibrown)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=imageApp&theme=radical)](https://github.com/AnshulKumarYadav/imageapp)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=weatherApp&theme=radical)](https://github.com/AnshulKumarYadav/weatherapp)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=youtube&theme=radical)](https://github.com/AnshulKumarYadav/youtube)|
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
-
-
 
