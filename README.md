@@ -62,7 +62,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
   </details>
 <details>
 <summary><b>📊 Metrics</b></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulKumarYadav&layout=compact&theme=radical" alt="anshulkumaryadav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulKumarYadav&theme=radical&langs_count8" alt="anshulkumaryadav" /></p>
 
 ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulKumarYadav&theme=radical&show_icons=true)
 
