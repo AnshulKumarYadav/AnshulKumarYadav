@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/Software%20Developer%20(1).gif)](https://AnshulKumarYadav.github.io)
 <h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Hii👋+I'm+Anshul;"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hii👋+I'm+Anshul;"></a>
 </p>
  <br/></h2>
 <details>
@@ -65,19 +65,18 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulKumarYadav&theme=radical&langs_count8" alt="anshulkumaryadav" /></p>
 
 ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulKumarYadav&theme=radical&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnshulKumarYadav&theme=radical&hide_border=false&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulKumarYadav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical)
   
   </details>
   
-  <a href="https://github.com/AnshulKumarYadav/github-readme-activity-graph"><img alt="Anshul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnshulKumarYadav&bg_color=0D1117&color=5BCDEC&line=DB2B63&point=EBF51B&hide_border=true" /></a>
+  <a href="https://github.com/AnshulKumarYadav/github-readme-activity-graph"><img alt="Anshul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulKumarYadav" /></a>
 
 
 <p align="left">Pinned Projects</p>
 
 |  | |
 |:-:|:-:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Redbus&theme=radical)](https://github.com/AnshulKumarYadav/redubs)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Online-Shopping-App-&theme=radical)](https://github.com/AnshulKumarYadav/online-shopping-app-)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Redbus&theme=radical)](https://github.com/AnshulKumarYadav/redbus)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=Online-Shopping-App-&theme=radical)](https://github.com/AnshulKumarYadav/online-shopping-app-)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=bobbibrown&theme=radical)](https://github.com/AnshulKumarYadav/bobbibrown)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=imageApp&theme=radical)](https://github.com/AnshulKumarYadav/imageapp)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=weatherApp&theme=radical)](https://github.com/AnshulKumarYadav/weatherapp)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnshulKumarYadav&repo=youtube&theme=radical)](https://github.com/AnshulKumarYadav/youtube)|
 
