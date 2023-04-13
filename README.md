@@ -6,7 +6,7 @@
 
   <b>👤 About</b>
     <p>
-      <img align="right" width="250" src="https://github.com/AnshulKumarYadav/AnshulKumarYadav/blob/main/assets/WhatsApp%20Image%202022-07-22%20at%209.22.30%20AM.jpeg" alt="Anshul Yadav" />
+
       
 <blockquote>
 
