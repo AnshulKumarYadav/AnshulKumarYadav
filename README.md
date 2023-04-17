@@ -73,8 +73,10 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKumarYadav&layout=compact&langs_count=5&theme=algolia"/>
 
-<img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulKumarYadav&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+<img align="center" marginTop="5px" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulKumarYadav&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+ 
 </a>
 </div>
+<img align="center" marginTop="5px" width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulKumarYadav" />
 
 
