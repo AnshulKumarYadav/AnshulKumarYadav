@@ -65,9 +65,16 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
   </p>
 
 <b>📊 Metrics</b>
+<div align="center">
 
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulKumarYadav&theme=radical&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulKumarYadav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AnshulKumarYadav&theme=radical&langs_count8)
-  
+<a href="https://github.com/AnshulKumarYadav">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKumarYadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKumarYadav&layout=compact&langs_count=5&theme=algolia"/>
+
+<img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulKumarYadav&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</a>
+</div>
+
 
