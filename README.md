@@ -77,6 +77,6 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
  
 </a>
 </div>
-<img align="center" marginTop="5px" width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulKumarYadav" />
+<img align="center" marginTop="5px" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulKumarYadav" />
 
 
